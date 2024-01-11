@@ -1,2 +1,2 @@
-# Fund-Ray_Landing-Page
-Its Contain the code of my a fundraising app - {Landing page} where people can contribute not just financially but also through their skills or expertise could empower small-scale projects. Users could offer services like design, marketing, programming, or mentoring in addition to monetary contributions....
+# RESPONSIVE REAL ESTATE WEBSITE
+![DEMO](https://user-images.githubusercontent.com/115061491/219941863-3e43bd7a-da90-4de9-b827-2c7389d7e4dd.jpg)
